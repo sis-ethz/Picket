@@ -1,5 +1,5 @@
-# Picket:  Self-supervised Data Diagnostics for ML Pipelines
-Picket is a system that enables data diagnostics for machine learning pipelines over tabular data. Details of the system can be found in our paper: https://arxiv.org/abs/2006.04730. Please cite our paper if you use the code.
+# Picket: Guarding Against Corrupted Data in Tabular Data during Learning and Inference
+Picket is a system that safeguards against data corruptions during both training and deployment of machine learning models over tabular data. Details of the system can be found in our paper: https://arxiv.org/abs/2006.04730. Please cite our paper if you use the code.
 
 ## Environment Requirements
 We run the experiments with the following dependencies:
